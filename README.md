@@ -1,2 +1,2 @@
-# 1WeatherAPI
+# WeatherAPI
 Weather App developed with RapidAPI
